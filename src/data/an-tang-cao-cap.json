@@ -1,0 +1,125 @@
+{
+    "name": "An Táng Cao Cấp",
+    "price": "140.000.000 đ",
+    "introduction":"là giải pháp trọn gói đẳng cấp, được thiết kế để thể hiện trọn vẹn sự tôn kính và trang nghiêm trong từng nghi thức tiễn biệt người đã khuất. Gói dịch vụ này bao gồm đầy đủ các nghi lễ truyền thống, không gian tổ chức sang trọng, cùng hệ thống trang thiết bị hiện đại và đội ngũ phục vụ chuyên nghiệp.<br/> Phù hợp với những gia đình mong muốn tổ chức một lễ tang long trọng, chỉn chu ở từng chi tiết, <strong>Gói Tang Lễ Cao Cấp</strong> không chỉ thể hiện lòng hiếu kính sâu sắc mà còn là sự tri ân trang trọng dành cho người đã khuất.",
+    "coffin": [
+        {
+            "banner": "/assets/images/an-tang-cao-cap/ao-quan/dich-vu-mai-tang-tron-goi-tphcm-hinh-1.webp",
+            "title": "Áo quan Đài Loan gỗ trai(#DLT1)",
+            "material": "Gỗ trai",
+            "size": "N/A"
+        },
+        {
+            "banner": "/assets/images/an-tang-cao-cap/ao-quan/dich-vu-mai-tang-tron-goi-tphcm-hinh-2.webp",
+            "title": "Áo quan Đài Loan gỗ trai (#DLT2)",
+            "material": "Gỗ trai",
+            "size": "N/A"
+        },
+        {
+            "banner": "/assets/images/an-tang-cao-cap/ao-quan/dich-vu-mai-tang-tron-goi-tphcm-hinh-3.webp",
+            "title": "Áo quan Đài Loan gỗ trai (#DLT3)",
+            "material": "Gỗ trai",
+            "size": "N/A"
+        },
+        {
+            "banner": "/assets/images/an-tang-cao-cap/ao-quan/dich-vu-mai-tang-tron-goi-tphcm-hinh-4.webp",
+            "title": "Áo quan Đài Loan chạm nổi (#DLCN1)",
+            "material": "Gỗ",
+            "size": "N/A"
+        },
+        {
+            "banner": "/assets/images/an-tang-cao-cap/ao-quan/dich-vu-mai-tang-tron-goi-tphcm-hinh-5.webp",
+            "title": "Áo quan Đài Loan chạm nổi (#DLCN2)",
+            "material": "Gỗ",
+            "size": "N/A"
+        }
+    ],
+    "images": [
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-1.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-2.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-3.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-4.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-5.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-6.jpg",
+       "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-7.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-8.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-9.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-10.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-11.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-12.jpg"
+    ],
+    "data": [
+        {
+            "title": "Rạp che bàn ghế",
+            "contents": [
+                "3 khung 6 bộ bàn",
+                "1 thùng đá",
+                "100 khăn lạnh"
+            ]
+        },
+        {
+            "title": "Hoa tươi tang lễ",
+            "contents": [
+                "1 bình hoa bàn Phật",
+                "1 bình hoa bàn Vong",
+                "Hoa tươi nắp quan tài",
+                "chi tiết hoa văn cho bàn thờ Phật và bàn thờ Vong",
+                "Hoa tươi di ảnh",
+                "Rồng phụng"
+            ]
+        },
+        {
+            "title": "Vật phẩm đi kèm",
+            "contents": [
+                "Cáo phó, bài vị, di ảnh, tiền bàn, tấm triệu, giấy tiền, nhang, lư hương, nến ly, nến và nhang bái quan",
+                "Vải liệm",
+                "Siêu đất,bao thư,viết",
+                "2 đĩa trái cây (bàn phật & bàn vong)",
+                "6 bịch bánh kẹo",
+                "2kg hạt dưa",
+                "10 thùng nước Suối (48ly/thùng)"
+            ]
+        },
+        {
+            "title": "Trang trí sảnh",
+            "contents": [
+                "Bàn thờ phật hoặc bàn thờ chúa",
+                "Trụ đèn, màng tang, lộng che",
+                "Thùng phúng viếng",
+                "Đèn trang trí tang lễ"
+            ]
+        },
+        {
+            "title": "Thỉnh sư thầy",
+            "contents": [
+                "1 thầy cúng(không bao gồm cơm)",
+                "Nghi lễ nhập quan, động quan đến nơi hỏa táng",
+                "Cầu siêu (2 lần/ngày)"
+            ]
+        },
+        {
+            "title": "Nhân viên tang lễ",
+            "contents": [
+                "Vệ sinh cho người mất",
+                "Tẩn liệm, bái quan, di quan đến nơi hỏa táng"
+            ]
+        },
+        {
+            "title": "Nhạc lễ",
+            "contents": [
+                "1 Suất nhạc tây lúc khâm liệm",
+                "1 Suất nhạc tây lúc di quan và đưa ra xe",
+                "2 Ngọ Nhạc Nam (hoặc 2 Ngọ Nhạc Bắc)"
+            ]
+        },
+        {
+            "title": "Xe tang lễ",
+            "contents": [
+                "1 xe dẫn đường",
+                "1 xe ford transit (hoặc 1 xe rồng)",
+                "1 xe đưa 45 chỗ"
+            ]
+        }
+      
+    ]
+}

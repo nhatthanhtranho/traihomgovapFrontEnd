@@ -1,0 +1,18 @@
+.custom-preview .ant-image-preview-img-wrapper {
+  background-color: rgba(0, 0, 0, 0.80) !important;
+  /* 85% opacity black */
+}
+.custom-mask-text {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}

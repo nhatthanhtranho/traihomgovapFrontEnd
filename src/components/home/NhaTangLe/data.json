@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "67a9bdcbdcbfcea6116fc9b0",
+      "title": "Nhà tang lễ bộ quốc phòng (Bệnh viện 175)",
+      "slug": "nha-tang-le-bo-quoc-phong",
+      "content":"",
+      "thumbnail": "https://sinhphuctho.com/public/images/nha-tang-le-bo-quoc-phong/thumbnail.webp",
+      "category": "nha-tang-le",
+      "description": "",
+      "isDeleted": false,
+      "createdAt": "2025-02-10T08:50:19.403Z",
+      "__v": 0
+    },
+    {
+      "_id": "67a996825d323165b147a336",
+      "title": "Nhà tang lễ Gò Vấp",
+      "content":"",
+      "slug": "nha-tang-le-go-vap",
+      "thumbnail": "https://sinhphuctho.com/public/images/nha-tang-le-go-vap/thumbnail.webp",
+      "category": "nha-tang-le",
+      "description": "",
+      "isDeleted": false,
+      "createdAt": "2025-02-10T06:02:42.323Z",
+      "__v": 0
+    }
+]

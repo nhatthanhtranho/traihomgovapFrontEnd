@@ -1,0 +1,34 @@
+[
+    {
+        "banner": "./assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-4.webp",
+        "title": "Gói An Táng Tiết Kiệm",
+        "content": "Gói dịch vụ tang lễ trọn gói giá rẻ cơ sở mai táng trại hòm Sinh Phúc Thọ Gò Vấp. Giá chỉ từ 70.000.000 đ. liên hệ ngay để biết thêm thông tin chi tiết.",
+        "url": "/dich-vu-tang-le-tron-goi/an-tang-tiet-kiem"
+    },  
+    {
+        "banner": "./assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-3.webp",
+        "title": "Gói An Táng Tiêu Chuẩn",
+        "content": "Gói dịch vụ tang lễ trọn gói giá rẻ cơ sở mai táng trại hòm Sinh Phúc Thọ Gò Vấp. Giá chỉ từ 85.000.000 đ. liên hệ ngay để biết thêm thông tin chi tiết.",
+        "url": "/dich-vu-tang-le-tron-goi/an-tang-tieu-chuan"
+
+    },
+    {
+        "banner": "./assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-2.webp",
+        "title": "Gói An Táng trang trọng",
+        "content": "Dịch vụ mai táng trọn gói trang trọng - Gói dịch vụ tang lễ trọn gói giá rẻ cơ sở mai táng trại hòm Sinh Phúc Thọ Gò Vấp. Giá chỉ từ 110.000.000 đ. liên hệ ngay để biết thêm thông tin chi tiết.",
+        "url": "/dich-vu-tang-le-tron-goi/an-tang-trang-trong"
+
+    },
+    {
+        "banner": "./assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-1.webp",
+        "title": "Gói An Táng Cao Cấp",
+        "content": "Dịch vụ mai táng trọn gói cao cấp - Gói dịch vụ tang lễ trọn gói giá rẻ cơ sở mai táng trại hòm Sinh Phúc Thọ Gò Vấp. Giá chỉ từ <strong>60.000.000 đ</strong>. liên hệ ngay để biết thêm thông tin chi tiết.",
+        "url": "/dich-vu-tang-le-tron-goi/an-tang-cao-cap"
+    },
+    {
+        "banner": "./assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-5.webp",
+        "title": "Gói An Táng Phúc Thọ",
+        "content": "Liên hệ ngay với chúng tôi để thiết kết gói tang lễ theo nhu cầu của gia đình.",
+        "url":"dich-vu-tang-le-tron-goi/an-tang-phuc-tho"
+    }
+]

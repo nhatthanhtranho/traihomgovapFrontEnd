@@ -1,0 +1,124 @@
+{
+    "name": "An Táng Trang Trọng",
+    "price": "110.000.000 đ",
+    "introduction":"là giải pháp trọn gói cao cấp, được thiết kế để thể hiện sự thành kính và trang nghiêm tuyệt đối trong nghi thức tiễn biệt người đã khuất. Gói dịch vụ này bao gồm đầy đủ các nghi lễ truyền thống, không gian tổ chức trang hoàng, cùng đội ngũ phục vụ chuyên nghiệp, nhằm mang đến sự an yên và tôn nghiêm cho tang lễ.",
+    "coffin": [
+        {
+            "banner": "/assets/images/an-tang-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-1.webp",
+            "title": "Áo quan Đài Loan gỗ căm xe cẩn (#DLCXC1)",
+            "material": "Gỗ căm xe",
+            "size": "205cm x 79cm x 90cm"
+        },
+        {
+            "banner": "/assets/images/an-tang-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-2.webp",
+            "title": "Áo quan Đài Loan gỗ căm xe cẩn (#DLCXC2)",
+            "material": "Gỗ căm xe",
+            "size": "205cm x 79cm x 90cm"
+        }
+    ],
+    "images": [
+       "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-1.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-2.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-3.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-4.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-5.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-6.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-7.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-8.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-9.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-10.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-11.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-12.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-13.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-14.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-15.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-16.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-17.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-18.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-19.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-20.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-21.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-22.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-23.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-24.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-25.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-26.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-27.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-28.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-29.webp",
+        "/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-30.webp"
+    ],
+    "data": [
+        {
+            "title": "Rạp che bàn ghế",
+            "contents": [
+                "3 khung 6 bộ bàn",
+                "1 thùng đá",
+                "100 khăn lạnh"
+            ]
+        },
+        {
+            "title": "Hoa tươi tang lễ",
+            "contents": [
+                "1 bình hoa bàn Phật",
+                "1 bình hoa bàn Vong",
+                "Hoa tươi nắp quan tài",
+                "chi tiết hoa văn cho bàn thờ Phật và bàn thờ Vong",
+                "Hoa tươi di ảnh",
+                "Rồng phụng"
+            ]
+        },
+        {
+            "title": "Vật phẩm đi kèm",
+            "contents": [
+                "Cáo phó, bài vị, di ảnh, tiền bàn, tấm triệu, giấy tiền, nhang, lư hương, nến ly, nến và nhang bái quan",
+                "Vải liệm",
+                "Siêu đất,bao thư,viết",
+                "2 đĩa trái cây (bàn phật & bàn vong)",
+                "6 bịch bánh kẹo",
+                "2kg hạt dưa",
+                "10 thùng nước Suối (48ly/thùng)"
+            ]
+        },
+        {
+            "title": "Trang trí sảnh",
+            "contents": [
+                "Bàn thờ phật hoặc bàn thờ chúa",
+                "Trụ đèn, màng tang, lộng che",
+                "Thùng phúng viếng",
+                "Đèn trang trí tang lễ"
+            ]
+        },
+        {
+            "title": "Thỉnh sư thầy",
+            "contents": [
+                "1 thầy cúng(không bao gồm cơm)",
+                "Nghi lễ nhập quan, động quan đến nơi an táng",
+                "Cầu siêu (2 lần/ngày)"
+            ]
+        },
+        {
+            "title": "Nhân viên tang lễ",
+            "contents": [
+                "Vệ sinh cho người mất",
+                "Tẩn liệm, bái quan, di quan đến nơi an táng"
+            ]
+        },
+        {
+            "title": "Nhạc lễ",
+            "contents": [
+                "1 Suất nhạc tây lúc khâm liệm",
+                "1 Suất nhạc tây lúc di quan và đưa ra xe",
+                "2 Ngọ nhạc Nam (hoặc 2 Ngọ Nhạc Bắc)"
+            ]
+        },
+        {
+            "title": "Xe tang lễ",
+            "contents": [
+                "1 xe dẫn đường",
+                "1 xe ford transit (hoặc 1 xe rồng)",
+                "1 xe đưa 45 chỗ"
+            ]
+        }
+    ]
+}

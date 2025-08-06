@@ -1,0 +1,41 @@
+@keyframes autoScroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.auto-slider-container {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+.auto-slider-track {
+  display: flex;
+  gap: 1rem;
+  width: max-content;
+  animation: autoScroll 30s linear infinite;
+  cursor: pointer;
+  scroll-behavior: smooth;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.auto-slider-track:active {
+  cursor: pointer;
+}
+
+.auto-slider-container:hover .auto-slider-track {
+  animation-play-state: paused;
+}
+
+.slider-card {
+  flex-shrink: 0;
+  width: 85vw;
+  max-width: 260px;
+  text-align: center;
+}

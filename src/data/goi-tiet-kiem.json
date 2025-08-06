@@ -1,0 +1,108 @@
+{
+  "name": "Hỏa Táng Tiết Kiệm",
+  "price": "30.000.000 đ",
+  "introduction": "là giải pháp trọn gói với chi phí hợp lý, được thiết kế nhằm đảm bảo sự trang nghiêm và đầy đủ các nghi lễ cơ bản trong quá trình tiễn biệt người đã khuất. Gói dịch vụ này phù hợp với các gia đình mong muốn tổ chức tang lễ một cách chu đáo, đơn giản nhưng vẫn thể hiện sự thành kính và tôn trọng đối với người thân quá cố.",
+  "coffin": [
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-1.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN1)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    },
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-2.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN2)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    },
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-3.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN3)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    },
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-4.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN4)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    },
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-5.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN5)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    },
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-6.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN6)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    },
+    {
+      "banner": "/assets/images/goi-tiet-kiem/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-tiet-kiem-7.webp",
+      "title": "Áo quan gỗ công nghiệp (#CN7)",
+      "material": "Gỗ công nghiệp",
+      "size": "205cm x 79cm x 90cm"
+    }
+  ],
+  "images": [
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-1.webp",
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-2.webp",
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-3.webp",
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-4.webp",
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-5.webp",
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-6.webp",
+    "/assets/images/goi-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-7.webp"
+  ],
+  "data": [
+    {
+      "title": "Rạp che bàn ghế",
+      "contents": ["2 khung 4 bộ bàn", "1 thùng đá"]
+    },
+    {
+      "title": "Hoa tươi tang lễ",
+      "contents": ["1 bình hoa bàn phật", "1 bình hoa bàn vong"]
+    },
+    {
+      "title": "Vật phẩm đi kèm",
+      "contents": [
+        "Cáo phó, bài vị, di ảnh, tiền bàn, tấm triệu, giấy tiền vàng mã, nhang, lư hương, nến ly, nến và nhang bái quan",
+        "vải liệm",
+        "Siêu đất,bao thư,viết",
+        "2 đĩa trái cây (bàn phật & bàn vong)",
+        "4 bịch bánh kẹo, 1kg hạt dưa",
+        "5 thùng nước Suối (48ly/thùng)"
+      ]
+    },
+    {
+      "title": "Trang trí sảnh",
+      "contents": [
+        "Bàn phật hoặc bàn thờ chúa",
+        "Trụ đèn,màng tang, lộng che",
+        "Thùng phúng viếng",
+        "Đèn trang trí tang lễ"
+      ]
+    },
+    {
+      "title": "Thỉnh sư thầy",
+      "contents": [
+        "1 thầy cúng(không bao gồm cơm)",
+        "Nghi lễ nhập quan, động quan đến nơi hỏa táng",
+        "Cầu siêu (2 lần/ngày)"
+      ]
+    },
+    {
+      "title": "Nhân viên tang lễ",
+      "contents": ["Vệ sinh cho người mất", "Tẩn liệm, bái quan,và di quan đến nơi hỏa táng"]
+    },
+    {
+      "title": "Xe tang lễ",
+      "contents": ["1 xe ford transit", "1 xe đưa 45 chỗ"]
+    },
+    {
+      "title": "Chi phí hỏa táng và hủ cốt",
+      "contents": ["Đóng chi phí hỏa táng cho người mất", "1 hủ cốt sành"]
+    }
+  ]
+}

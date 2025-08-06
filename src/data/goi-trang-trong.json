@@ -1,0 +1,146 @@
+{
+    "name": "Hỏa Táng Trang trọng",
+    "price": "45.000.000 đ",
+    "introduction":"là giải pháp trọn gói cao cấp, được thiết kế để thể hiện sự thành kính và trang nghiêm tuyệt đối trong nghi thức tiễn biệt người đã khuất. Gói dịch vụ này bao gồm đầy đủ các nghi lễ truyền thống, không gian tổ chức trang hoàng, cùng đội ngũ phục vụ chuyên nghiệp, nhằm mang đến sự an yên và tôn nghiêm cho tang lễ.",
+ 
+    "coffin": [
+        {
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-1.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN1)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },
+        {
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-2.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN2)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-3.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN3)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-4.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN4)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-5.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN5)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-6.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN6)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-7.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN7)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-8.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN8)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        },{
+            "banner": "/assets/images/goi-trang-trong/ao-quan/co-so-mai-tang-trai-hom-sinh-phuc-tho-ao-quan-9.webp",
+            "title": "Áo quan Đài Loan trung cẩn (#DLCN9)",
+            "material": "Gỗ công nghiệp",
+            "size": "N/A"
+        }
+    ],
+    "images": [
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-1.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-2.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-3.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-4.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-5.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-6.jpg",
+       "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-7.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-8.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-9.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-10.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-11.jpg",
+        "/assets/images/hinh-anh-tang-le-cao-cap/tang-le-tron-goi-cao-cap-12.jpg"
+    ],
+    "data": [
+        {
+            "title": "Rạp che bàn ghế",
+            "contents": [
+                "3 khung 6 bộ bàn",
+                "1 thùng đá",
+                "100 khăn lạnh"
+            ]
+        },
+        {
+            "title": "Hoa tươi tang lễ",
+            "contents": [
+                "1 bình hoa bàn Phật",
+                "1 bình hoa bàn Vong",
+                "Hoa tươi nắp quan tài",
+                "Hoa tươi di ảnh",
+                "Rồng phụng"
+            ]
+        },
+        {
+            "title": "Vật phẩm đi kèm",
+            "contents": [
+                "Cáo phó, bài vị, di ảnh, tiền bàn, tấm triệu, giấy tiền, nhang, lư hương, nến ly, nến và nhang bái quan",
+                "Vải liệm",
+                "Siêu đất,bao thư,viết",
+                "2 đĩa trái cây (bàn phật & bàn vong)",
+                "6 bịch bánh kẹo",
+                "1.5kg hạt dưa",
+                "10 thùng nước Suối (48ly/thùng)"
+            ]
+        }, 
+        {
+            "title": "Trang trí sảnh",
+            "contents": [
+                "Bàn thờ phật hoặc bàn thờ chúa",
+                "Trụ đèn, màng tang, lộng che",
+                "Thùng phúng viếng",
+                "Đèn trang trí tang lễ"
+            ]
+        }, {
+            "title": "Thỉnh sư thầy",
+            "contents": [
+                "1 thầy cúng(không bao gồm cơm)",
+                "Nghi lễ nhập quan, động quan đến nơi hỏa táng",
+                "Cầu siêu (2 lần/ngày)"
+            ]
+        },
+        {
+            "title": "Nhân viên tang lễ",
+            "contents": [
+                "Vệ sinh cho người mất",
+                "Tẩn liệm, bái quan, di quan đến nơi hỏa táng"
+            ]
+        }, 
+        {
+            "title": "Nhạc lễ",
+            "contents": [
+                "1 Suất nhạc tây liệm",
+                "1 Suất nhạc tây lúc di quan và đưa ra xe"
+            ]
+        },
+        {
+            "title": "Xe tang lễ",
+            "contents": [
+                "1 xe ford transit (hoặc 1 xe rồng)",
+                "1 xe đưa 45 chỗ",
+                "1 Xe dẫn đường"
+            ]
+        },
+        {
+            "title": "Chi phí hỏa táng và hủ cốt",
+            "contents": [
+                "Đóng toàn bộ chi phí hỏa táng cho người mất",
+                "1 hủ cốt đá lưu ly trắng"
+            ]
+        }
+    ]
+}

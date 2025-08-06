@@ -1,0 +1,70 @@
+[
+    {
+      "_id": "67a9bdcbdcbfcea6116fc9b0",
+      "title": "Nhà tang lễ bộ quốc phòng (BV 175)",
+      "slug": "nha-tang-le-bo-quoc-phong",
+      "description":"",
+      "thumbnail": "https://sinhphuctho.com/public/images/nha-tang-le-bo-quoc-phong/thumbnail.webp",
+      "category": "nha-tang-le",
+      "content": "Nhà Tang lễ Bộ Quốc Phòng cung cấp dịch vụ tổ chức tang lễ chu đáo, trang nghiêm với không gian sạch sẽ, tiện nghi và đội ngũ nhân viên tận tâm, hỗ trợ gia đình lo hậu sự trọn vẹn.",
+      "isDeleted": false,
+      "createdAt": "2025-02-10T08:50:19.403Z",
+      "alt": "Nhà tang lễ Bộ Quốc Phòng",
+      "__v": 0
+    },
+    {
+      "_id": "67a996825d323165b147a336",
+      "title": "Nhà tang lễ Gò Vấp",
+      "content":"Nhà Tang lễ Quận Gò Vấp là nơi tổ chức tang lễ trang nghiêm, với không gian sạch sẽ, đầy đủ tiện nghi và đội ngũ nhân viên tận tâm. Dịch vụ hậu sự tại đây được thực hiện chu đáo, giúp gia đình tiễn đưa người thân một cách trọn vẹn, nhẹ gánh lo toan trong thời khắc khó khăn.",
+      "slug": "nha-tang-le-go-vap",
+      "thumbnail": "https://sinhphuctho.com/public/images/nha-tang-le-go-vap/thumbnail.webp",
+      "category": "nha-tang-le",
+      "description": "",
+      "isDeleted": false,
+      "createdAt": "2025-02-10T06:02:42.323Z",
+      "alt": "Nhà Tang Lễ Gò Vấp",
+      "__v": 0
+    },
+    {
+      "_id": "67a996825d323165b147a336",
+      "title": "Nhà tang lễ Chùa Bồ Đề",
+      "content":"Nhà Tang lễ Chùa Bồ Đề là nơi tổ chức tang lễ trang nghiêm, với không gian sạch sẽ, đầy đủ tiện nghi và đội ngũ nhân viên tận tâm. Dịch vụ hậu sự tại đây được thực hiện chu đáo, giúp gia đình tiễn đưa người thân một cách trọn vẹn, nhẹ gánh lo toan trong thời khắc khó khăn.",
+      "slug": "nha-tang-le-go-vap",
+      "thumbnail": "./assets/images/nha-tang-le/chua-bo-de.png",
+      "link":false,
+      "category": "nha-tang-le",
+      "description": "",
+      "isDeleted": false,
+      "createdAt": "2025-02-10T06:02:42.323Z",
+      "alt": "Nhà Tang Lễ Chùa Bồ Đề",
+      "__v": 0
+    },
+    {
+      "_id": "67a996825d323165b147a336",
+      "title": "Nhà tang lễ Chùa Pháp Vân",
+      "content":"Nhà tang lễ Chùa Pháp Vâ là nơi tổ chức tang lễ trang nghiêm, với không gian sạch sẽ, đầy đủ tiện nghi và đội ngũ nhân viên tận tâm. Dịch vụ hậu sự tại đây được thực hiện chu đáo, giúp gia đình tiễn đưa người thân một cách trọn vẹn, nhẹ gánh lo toan trong thời khắc khó khăn.",
+      "slug": "nha-tang-le-go-vap",
+      "thumbnail": "./assets/images/nha-tang-le/phap-van.jpg",
+      "category": "nha-tang-le",
+      "link":false,
+      "description": "",
+      "isDeleted": false,
+      "alt": "Nhà Tang Lễ Chùa Pháp Vân",
+      "createdAt": "2025-02-10T06:02:42.323Z",
+      "__v": 0
+    },
+    {
+      "_id": "67a996825d323165b147a336",
+      "title": "Nhà tang lễ Pháp Viện Minh Đăng Quang",
+      "content":"Nhà tang lễ Pháp Viện Minh Đăng Quang là nơi tổ chức tang lễ trang nghiêm, với không gian sạch sẽ, đầy đủ tiện nghi và đội ngũ nhân viên tận tâm. Dịch vụ hậu sự tại đây được thực hiện chu đáo, giúp gia đình tiễn đưa người thân một cách trọn vẹn, nhẹ gánh lo toan trong thời khắc khó khăn.",
+      "slug": "nha-tang-le-go-vap",
+      "thumbnail": "./assets/images/nha-tang-le/minh-dang-quang.jpg",
+      "link":false,
+      "category": "nha-tang-le",
+      "description": "",
+      "isDeleted": false,
+      "createdAt": "2025-02-10T06:02:42.323Z",
+      "alt": "Nhà Tang Lễ Pháp Viện Minh Đăng Quang",
+      "__v": 0
+    }
+]
