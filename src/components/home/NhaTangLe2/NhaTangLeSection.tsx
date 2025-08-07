@@ -82,8 +82,9 @@ export default function ServiceSection() {
           Nhà Tang Lễ Thành Phố
         </h1>
         <p className="text-gray-600 text-lg max-w-2xl mx-auto md:mb-12 mb-6 text-center">
-          Cơ Sở Mai Táng Sinh Phúc Thọ cung cấp các dịch vụ tang lễ tại Nhà Tang Lễ Thành Phố, đảm
-          bảo sự trang trọng và chu đáo trong từng nghi thức.
+          <strong>Trại Hòm Gò Vấp</strong> cung cấp dịch vụ tang lễ trọn gói tại nhiều địa điểm uy tín
+          như: Nhà Tang Lễ Gò Vấp, Nhà Tang Lễ Bộ Quốc Phòng, Nhà Tang Lễ Chùa Bồ Đề và các nhà tang
+          lễ khác trên địa bàn TP. Hồ Chí Minh và các tỉnh thành khác theo yêu cầu của gia đình.
         </p>
 
         {/* Mobile View: Carousel */}

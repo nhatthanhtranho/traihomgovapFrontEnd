@@ -23,15 +23,16 @@ const Footer: React.FC<PropTypes> = _ => {
                 className="mr-4"
               />
               <div>
-                <h2 className="text-xl font-bold">SINH PHÚC THỌ</h2>
+                <h2 className="text-xl font-bold">Trại Hòm Gò Vấp</h2>
                 <p className="text-sm text-gray-700 font-semibold">
-                  Tận tâm - Chuyên nghiệp - Minh bạch
+                  Tận Tình - Chuyên Nghiệp - Minh Bạch
                 </p>
               </div>
             </div>
             <p className="text-sm text-gray-600 mt-2">
-              Với hơn 20 năm kinh nghiệm, Sinh Phúc Thọ tự hào là một trong những đơn vị uy tín hàng
-              đầu tại TP. Hồ Chí Minh trong lĩnh vực tổ chức tang lễ trọn gói.
+              Với bề dày hơn 20 năm hoạt động, <strong>Trại Hòm Gò Vấp</strong> tự hào là một trong
+              những đơn vị tổ chức tang lễ trọn gói đáng tin cậy hàng đầu tại TP. Hồ Chí Minh, luôn
+              đồng hành cùng các gia đình trong giờ phút tiễn biệt thiêng liêng."
             </p>
             <div className="flex items-start gap-2 text-sm text-gray-600 mt-2">
               <Location size={18} className="mt-0.5 text-primary" />
@@ -47,14 +48,14 @@ const Footer: React.FC<PropTypes> = _ => {
             </div>
           </div>
           <div className="col-span-6 md:col-span-3 lg:col-span-3">
-            <h3 className="text-lg font-semibold mb-2">Các Gói An Táng</h3>
+            <h3 className="text-lg font-semibold mb-2">Dịch Vụ An Táng</h3>
             <ul className="space-y-2 text-sm text-gray-700">
               {[
-                ['Gói An Táng Tiết Kiệm', '/dich-vu-tang-le-tron-goi/goi-tiet-kiem'],
-                ['Gói An Táng Tiêu Chuẩn', '/dich-vu-tang-le-tron-goi/goi-tieu-chuan'],
-                ['Gói An Táng Trang Trọng', '/dich-vu-tang-le-tron-goi/goi-trang-trong'],
-                ['Gói An Táng Cao Cấp', '/dich-vu-tang-le-tron-goi/goi-cao-cap'],
-                ['Gói An Táng Phúc Thọ', '/dich-vu-tang-le-tron-goi'],
+                ['An Táng Tiết Kiệm', '/dich-vu-tang-le-tron-goi/goi-tiet-kiem'],
+                ['An Táng Tiêu Chuẩn', '/dich-vu-tang-le-tron-goi/goi-tieu-chuan'],
+                ['An Táng Trang Trọng', '/dich-vu-tang-le-tron-goi/goi-trang-trong'],
+                ['An Táng Cao Cấp', '/dich-vu-tang-le-tron-goi/goi-cao-cap'],
+                ['An Táng Phúc Thọ', '/dich-vu-tang-le-tron-goi'],
               ].map(([name, href]) => (
                 <li key={href}>
                   <Link href={formatLink(href)} className="underline">
@@ -65,14 +66,15 @@ const Footer: React.FC<PropTypes> = _ => {
             </ul>
           </div>
           <div className="col-span-6 md:col-span-3 lg:col-span-3">
-            <h3 className="text-lg font-semibold mb-2">Các Gói Hỏa Táng</h3>
+            <h3 className="text-lg font-semibold mb-2">Dịch Vụ Hỏa Táng</h3>
             <ul className="space-y-2 text-sm text-gray-700">
               {[
-                ['Gói Hỏa Táng Tiết Kiệm', '/dich-vu-tang-le-tron-goi/goi-tiet-kiem'],
-                ['Gói Hỏa Táng Tiêu Chuẩn', '/dich-vu-tang-le-tron-goi/goi-tieu-chuan'],
-                ['Gói Hỏa Táng Trang Trọng', '/dich-vu-tang-le-tron-goi/goi-trang-trong'],
-                ['Gói Hỏa Táng Cao Cấp', '/dich-vu-tang-le-tron-goi/goi-cao-cap'],
-                ['Gói Hỏa Táng Phúc Thọ', '/dich-vu-tang-le-tron-goi'],
+                ['Hỏa Táng Tiêu Chuẩn', '/dich-vu-tang-le-tron-goi/goi-tieu-chuan'],
+                ['Hỏa Táng Trang Trọng', '/dich-vu-tang-le-tron-goi/goi-trang-trong'],
+                ['Hỏa Táng Tâm An', '/dich-vu-tang-le-tron-goi/goi-tam-an'],
+                ['Hỏa Táng Vĩnh Hằng', '/dich-vu-tang-le-tron-goi/goi-vinh-hang'],
+                ['Hỏa Táng Cao Cấp', '/dich-vu-tang-le-tron-goi/goi-cao-cap'],
+                ['Hỏa Táng Phúc Thọ', '/dich-vu-tang-le-tron-goi'],
               ].map(([name, href]) => (
                 <li key={href}>
                   <Link href={formatLink(href)} className="underline">
@@ -122,7 +124,7 @@ const Footer: React.FC<PropTypes> = _ => {
 
         {/* Footer bottom */}
         <div className="flex flex-col sm:flex-row justify-between items-center border-t pt-6 text-sm text-gray-600 gap-4">
-          <span>© 2024 - Cơ Sở Mai Táng Trại Hòm Sinh Phúc Thọ Gò Vấp. All rights reserved.</span>
+          <span>© 2024 - Cơ Sở Mai Táng Trại Hòm Gò Vấp. All rights reserved.</span>
           <div className="flex gap-4">
             <a href="#" aria-label="Facebook" target="_blank" rel="noreferrer">
               <Facebook variant="Bold" className="hover:text-primary" />
