@@ -69,18 +69,17 @@ export default function CoffinSection({ customCoffinData }: CoffinSectionProps) 
   const [data, setData] = useState<CoffinItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
- const loadCoffinData = async () => {
-  try {
-    const importedData = await import('@/data/coffin-data.json');
-    const jsonData = importedData.default as CoffinItem[];
-    setData(jsonData.slice(0, 9));
-  } catch (error) {
-    console.error('Failed to load coffin data:', error);
-  } finally {
-    setIsLoading(false);
-  }
-};
-
+  const loadCoffinData = async () => {
+    try {
+      const importedData = await import('@/data/coffin-data.json');
+      const jsonData = importedData.default as CoffinItem[];
+      setData(jsonData.slice(0, 9));
+    } catch (error) {
+      console.error('Failed to load coffin data:', error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   useEffect(() => {
     if (customCoffinData && customCoffinData.length > 0) {
@@ -110,23 +109,34 @@ export default function CoffinSection({ customCoffinData }: CoffinSectionProps) 
   const descriptionShort =
     'Dịch vụ cung cấp đa dạng áo quan từ truyền thống đến hiện đại, được chọn lọc kỹ lưỡng để đảm bảo sự trang nghiêm và tôn kính trong lễ tiễn đưa';
 
-  const descriptionFull =
-    'Dịch vụ cung cấp đa dạng các loại áo quan phù hợp với nhu cầu và điều kiện của từng gia đình. Từ áo quan gỗ truyền thống, áo quan cao cấp chạm khắc tinh xảo đến các mẫu hiện đại bằng chất liệu bền đẹp, mỗi loại đều được lựa chọn kỹ lưỡng nhằm đảm bảo sự trang nghiêm và tôn kính trong nghi lễ tiễn đưa người thân.';
+  const descriptionFull = `
+    <strong>Dịch vụ cung cấp đa dạng các loại áo quan</strong>, phù hợp với 
+    <strong>nhu cầu</strong> và <strong>điều kiện kinh tế</strong> của từng gia đình. 
+    Từ <strong>áo quan gỗ truyền thống</strong>, <strong>mẫu chạm khắc cao cấp tinh xảo</strong> 
+    đến các thiết kế <strong>hiện đại bằng chất liệu bền đẹp</strong>, mỗi sản phẩm đều được 
+    <strong>lựa chọn kỹ lưỡng</strong> nhằm đảm bảo sự <strong>trang nghiêm</strong> và 
+    <strong>tôn kính</strong> trong nghi lễ tiễn biệt người thân.
+  `;
 
   return (
     <div className="container mx-auto px-3 py-10">
       <div>
         <h1 className="text-3xl font-bold text-gray-800 mb-4 text-center">Các Loại Áo Quan</h1>
+
         <p className="md:hidden text-gray-600 text-center text-lg mx-auto max-w-4xl mb-4">
           {descriptionShort}
         </p>
-        <p className="hidden md:block text-gray-600 text-center text-lg mx-auto max-w-4xl mb-4">
-          {descriptionFull}
-        </p>
+
+        <p
+          className="hidden md:block text-gray-600 text-center text-lg mx-auto max-w-4xl mb-4"
+          dangerouslySetInnerHTML={{ __html: descriptionFull.trim() }}
+        ></p>
+
         <Slider {...sliderSettings} className="py-2 mx-auto relative">
           {renderCoffinCards}
         </Slider>
       </div>
+
       {!isLoading && (
         <Link href={formatLink('/cac-loai-ao-quan')}>
           <div className="rounded-full custom-box-shadow-1 cursor-pointer mt-10 w-fit mx-auto px-6 py-2 bg-gray-800">

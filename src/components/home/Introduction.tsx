@@ -35,9 +35,8 @@ export default function Introduction({ showProduct = true, showCoffin = true }: 
                 src="/assets/images/funeral.webp"
                 alt="Dịch vụ tang lễ Sinh Phúc Thọ"
                 fill
-                className={`object-contain transition-opacity duration-500 ${
-                  imageLoaded1 ? 'opacity-100' : 'opacity-0'
-                }`}
+                className={`object-contain transition-opacity duration-500 ${imageLoaded1 ? 'opacity-100' : 'opacity-0'
+                  }`}
                 onLoad={() => setImageLoaded1(true)}
                 priority
               />
@@ -49,7 +48,7 @@ export default function Introduction({ showProduct = true, showCoffin = true }: 
                 Về Chúng Tôi
               </h1>
               <p className="text-lg text-gray-600 mb-4">
-              <strong>Trại Hòm Gò Vấp</strong> là đơn vị hàng đầu trong lĩnh vực dịch vụ mai táng tại TP.HCM, với hơn 20 năm kinh nghiệm tổ chức tang lễ trọn gói. Chúng tôi luôn đặt chữ <strong>TÂM</strong> lên hàng đầu, cam kết mang đến dịch vụ tận tình, chuyên nghiệp và chu đáo trong từng chi tiết.
+                <strong>Trại Hòm Gò Vấp</strong> là đơn vị hàng đầu trong lĩnh vực dịch vụ mai táng tại TP.HCM, với hơn 20 năm kinh nghiệm tổ chức tang lễ trọn gói. Chúng tôi luôn đặt chữ <strong>TÂM</strong> lên hàng đầu, cam kết mang đến dịch vụ tận tình, chuyên nghiệp và chu đáo trong từng chi tiết.
               </p>
               <ul className="list-disc list-inside text-gray-600 space-y-2">
                 <li>Với hơn 20 năm kinh nghiệm trong việc tổ chức tang lễ</li>
@@ -73,19 +72,18 @@ export default function Introduction({ showProduct = true, showCoffin = true }: 
             {/* Content */}
             <div className="order-2 md:order-1 flex-1 text-gray-600 px-5 md:px-0">
               <h2 className="text-3xl font-bold text-gray-800 mb-4 text-center md:text-left">
-                Tại Sao Nên Chọn Dịch Vụ Mai Táng Trọn Gói
+                Lý Do Nên Chọn Dịch Vụ Mai Táng Trọn Gói
               </h2>
               <p className="text-lg mb-4 line-clamp-4">
-                Dịch vụ tại Sinh Phúc Thọ giúp tiết kiệm thời gian, công sức và giảm lo lắng. Chúng
-                tôi đảm bảo sự chu toàn, linh hoạt theo mong muốn gia đình và hỗ trợ tận tâm 24/7.
+                Dịch vụ tại <strong>Trại Hòm Gò Vấp</strong> giúp gia đình tiết kiệm thời gian, giảm bớt lo lắng và nhẹ gánh tinh thần trong lúc tang gia. Chúng tôi cam kết phục vụ tận tâm 24/7, đảm bảo sự chu toàn trong từng nghi lễ và linh hoạt theo mong muốn riêng của mỗi gia đình.
               </p>
               <ul className="list-disc list-inside space-y-2">
-                <li>Hỗ trợ 24/7, sẵn sàng cho mọi tình huống</li>
-                <li>Thủ tục pháp lý nhanh gọn, chuyên nghiệp</li>
-                <li>Phù hợp tôn giáo, phong tục từng gia đình</li>
-                <li>Nhiều gói dịch vụ, linh hoạt ngân sách</li>
-                <li>Đội ngũ giàu kinh nghiệm, tận tâm hỗ trợ</li>
-                <li>Không gian tang lễ trang nghiêm, tiện nghi</li>
+                <li>Hỗ trợ tận tình 24/7, sẵn sàng ứng phó mọi tình huống</li>
+                <li>Thủ tục pháp lý nhanh chóng, xử lý chuyên nghiệp</li>
+                <li>Tôn trọng tín ngưỡng, phong tục của từng gia đình</li>
+                <li>Đa dạng gói dịch vụ, linh hoạt theo ngân sách</li>
+                <li>Đội ngũ chuyên nghiệp, nhiều kinh nghiệm và tận tâm</li>
+                <li>Không gian tổ chức tang lễ trang nghiêm, đầy đủ tiện nghi</li>
               </ul>
             </div>
 
@@ -97,12 +95,11 @@ export default function Introduction({ showProduct = true, showCoffin = true }: 
                 </div>
               )}
               <Image
-                src="/assets/images/an-tang-tiet-kiem/hinh-anh-thuc-te/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-21.webp"
+                src="/assets/images/ly-do-nen-chon-dich-vu-mai-tang-tron-goi-trai-hom-go-vap.webp"
                 alt="Không gian tang lễ Sinh Phúc Thọ"
                 fill
-                className={`rounded shadow-lg object-cover object-center transition-opacity duration-500 ${
-                  imageLoaded2 ? 'opacity-100' : 'opacity-0'
-                }`}
+                className={`rounded shadow-lg object-cover object-center transition-opacity duration-500 ${imageLoaded2 ? 'opacity-100' : 'opacity-0'
+                  }`}
                 onLoad={() => setImageLoaded2(true)}
                 loading="lazy"
                 sizes="(max-width: 768px) 100vw, 50vw"
