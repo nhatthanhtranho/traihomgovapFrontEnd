@@ -1,6 +1,6 @@
 [
     {
-      "type": "t",
+      "type": "Hỏa Táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-tiet-kiem",
       "name": "Gói Tiết Kiệm",
       "alt": "Dịch vụ hỏa táng tiết kiệm",
@@ -11,16 +11,16 @@
     {
       "type": "Hỏa táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-tieu-chuan",
-      "name": "Gói Tiêu Chuẩn",
-      "alt": "Gói hỏa táng tiêu chuẩn trọn gói tại Sinh Phúc Thọ",
+      "name": "Hỏa Táng Tiêu Chuẩn",
+      "alt": "Dich vụ hỏa táng tiêu chuẩn | Trại Hòm Gò Vấp",
       "price": "35.000.000 đ",
-      "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-3.webp",
-      "description": "Gói Hỏa Táng Tiêu Chuẩn được thiết kế nhằm mang đến sự chu toàn, trang nghiêm và tiết kiệm cho gia đình trong thời khắc tiễn biệt người thân. Dịch vụ này đáp ứng đầy đủ các nghi thức cơ bản và nhu cầu thiết yếu, đảm bảo quá trình hỏa táng diễn ra thuận lợi và trọn vẹn."
+      "banner": "/assets/images/home/products/trai-hom-go-vap-hoa-tang-co-ban-banner.webp",
+      "description": "<strong>Gói Hỏa Táng Tiêu Chuẩn</strong> được xây dựng nhằm hỗ trợ gia đình tổ chức lễ tiễn biệt người thân một cách <strong>chu đáo</strong>, <strong>trang nghiêm</strong> và <strong>hợp lý về chi phí</strong>. Gói dịch vụ đáp ứng đầy đủ các nghi thức tang lễ cơ bản cùng những nhu cầu thiết yếu, giúp quá trình hỏa táng diễn ra <strong>suôn sẻ</strong> và <strong>trọn vẹn</strong> trong thời khắc thiêng liêng này."
     },
     {
       "type": "Hỏa táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-trang-trong",
-      "name": "Gói Trang Trọng",
+      "name": "Hỏa Táng Trang Trọng",
       "price": "45.000.000 đ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-2.webp",
       "alt": "Gói Hỏa Táng Trang Trọng",
@@ -29,7 +29,7 @@
     {
       "type": "Hỏa táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-tam-an",
-      "name": "Gói Tâm An",
+      "name": "Hỏa Táng Tâm An",
       "price": "50.000.000 đ",
       "alt": "Gói Hỏa Táng Tâm An của Sinh Phúc Thọ – giải pháp tang lễ trọn vẹn, ý nghĩa",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-7.webp",
@@ -38,7 +38,7 @@
     {
       "type": "Hỏa táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-vinh-hang",
-      "name": "Gói Vĩnh Hằng",
+      "name": "Hỏa Táng Vĩnh Hằng",
       "price": "55.000.000 đ",
       "alt": "Banner gói hỏa táng Vĩnh Hằng",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-6.webp",
@@ -47,7 +47,7 @@
     {
       "type": "Hỏa táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-cao-cap",
-      "name": "Gói Cao cấp",
+      "name": "Hỏa Táng Cao cấp",
       "alt": "Dịch vụ hỏa táng trọn gói cao cấp",
       "price": "60.000.000 đ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-1.webp",
@@ -56,7 +56,7 @@
     {
       "type": "Hỏa táng",
       "url": "/dich-vu-tang-le-tron-goi/hoa-tang-phuc-tho",
-      "name": "Gói Phúc Thọ",
+      "name": "Hỏa Táng Phúc Thọ",
       "price": "Liên hệ",
       "alt": "Hình ảnh gói Phúc Thọ – tổ chức tang lễ nhân văn, chu đáo tại Sinh Phúc Thọ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-5.webp",
@@ -66,7 +66,7 @@
     {
       "type": "An táng",
       "url": "/dich-vu-tang-le-tron-goi/an-tang-tiet-kiem",
-      "name": "Gói Tiết kiệm",
+      "name": "An Táng Tiết kiệm",
       "price": "70.000.000 đ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-6.webp",
       "description": "Gói An Táng Tiết Kiệm là lựa chọn phù hợp dành cho những gia đình mong muốn tổ chức lễ tang một cách trang nghiêm, chu đáo nhưng vẫn tiết kiệm. Dịch vụ được xây dựng trên tinh thần kính trọng người đã khuất và chia sẻ gánh nặng cùng thân nhân trong thời khắc tiễn biệt."
@@ -74,8 +74,8 @@
     {
       "type": "An táng",
       "url": "/dich-vu-tang-le-tron-goi/an-tang-tieu-chuan",
-      "name": "Gói Tiêu chuẩn",
-      "alt": "Gói An Táng Tiêu Chuẩn",
+      "name": "An Táng Tiêu chuẩn",
+      "alt": "An Táng Tiêu Chuẩn",
       "price": "85.000.000 đ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-7.webp",
       "description": "Gói An Táng Tiêu Chuẩn được thiết kế nhằm mang đến sự chu toàn, trang nghiêm và tiết kiệm cho gia đình trong thời khắc tiễn biệt người thân. Dịch vụ này đáp ứng đầy đủ các nghi thức cơ bản và nhu cầu thiết yếu, đảm bảo quá trình hỏa táng diễn ra thuận lợi và trọn vẹn."
@@ -83,7 +83,7 @@
     {
       "type": "An táng",
       "url": "/dich-vu-tang-le-tron-goi/an-tang-trang-trong",
-      "name": "Gói Trang trọng",
+      "name": "An Táng Trang trọng",
       "alt": "Gói An Táng Trang Trọng",
       "price": "110.000.000 đ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-8.webp",
@@ -92,7 +92,7 @@
     {
       "type": "An táng",
       "url": "/dich-vu-tang-le-tron-goi/an-tang-cao-cap",
-      "name": "Gói Cao cấp",
+      "name": "An Táng Cao cấp",
       "alt": "Gói An Táng Cao Cấp",
       "price": "140.000.000 đ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-9.webp",
@@ -101,7 +101,7 @@
     {
       "type": "An táng",
       "url": "/dich-vu-tang-le-tron-goi/an-tang-phuc-tho",
-      "name": "Gói Phúc Thọ",
+      "name": "An Táng Phúc Thọ",
       "alt": "Gói An Táng Phúc Thọ",
       "price": "Liên hệ",
       "banner": "/assets/images/home/products/co-so-mai-tang-trai-hom-sinh-phuc-tho-hinh-5.webp",

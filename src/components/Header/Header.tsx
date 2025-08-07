@@ -12,8 +12,8 @@ const Header = () => {
     <header className="bg-white border-gray-200 py-2.5 px-4 container mx-auto">
       <div className="flex">
         <div>
-          <h2 className="text-xl font-bold">SINH PHÚC THỌ</h2>
-          <p className="text-sm text-gray-700 font-semibold">Tận tâm - Chuyên nghiệp - Minh bạch</p>
+          <h2 className="text-xl font-bold">Trại Hòm Gò Vấp</h2>
+          <p className="text-sm text-gray-700 font-semibold">Tận Tình - Chuyên Nghiệp - Minh Bạch</p>
         </div>
 
         <button

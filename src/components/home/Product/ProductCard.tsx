@@ -61,9 +61,17 @@ const ProductCard: React.FC<PropTypes> = ({
           </span>
         )}
 
-        <p className="text-gray-600 mb-2 text-sm line-clamp-5">
-          {isLoading ? <Skeleton count={3} /> : description || 'Mô tả sản phẩm đang cập nhật.'}
-        </p>
+        <div className="text-gray-600 mb-2 text-sm line-clamp-5">
+          {isLoading ? (
+            <Skeleton count={3} />
+          ) : (
+            <div
+              dangerouslySetInnerHTML={{
+                __html: description || 'Mô tả sản phẩm đang cập nhật.',
+              }}
+            />
+          )}
+        </div>
 
         <p className="text-slate-500 mb-2 tracking-wide text-sm">
           {isLoading ? (

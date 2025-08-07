@@ -32,7 +32,7 @@ export default function Introduction({ showProduct = true, showCoffin = true }: 
             <div className="relative order-1 md:order-1 flex-1 h-80">
               {!imageLoaded1 && <Skeleton className="w-full h-full" />}
               <Image
-                src="/assets/images/funeral.svg"
+                src="/assets/images/funeral.webp"
                 alt="Dịch vụ tang lễ Sinh Phúc Thọ"
                 fill
                 className={`object-contain transition-opacity duration-500 ${
@@ -46,18 +46,16 @@ export default function Introduction({ showProduct = true, showCoffin = true }: 
             {/* Content */}
             <div className="order-2 md:order-2 flex-1">
               <h1 className="text-3xl font-bold text-gray-800 mb-4 text-center md:text-left">
-                Dịch Vụ Thêm
+                Về Chúng Tôi
               </h1>
               <p className="text-lg text-gray-600 mb-4">
-                <strong>Sinh Phúc Thọ</strong> là đơn vị uy tín hàng đầu trong lĩnh vực dịch vụ mai
-                táng tại TP.HCM, với hơn 20 năm kinh nghiệm tổ chức tang lễ trọn gói. Chúng tôi cam
-                kết mang đến dịch vụ tận tâm, chuyên nghiệp và chu đáo.
+              <strong>Trại Hòm Gò Vấp</strong> là đơn vị hàng đầu trong lĩnh vực dịch vụ mai táng tại TP.HCM, với hơn 20 năm kinh nghiệm tổ chức tang lễ trọn gói. Chúng tôi luôn đặt chữ <strong>TÂM</strong> lên hàng đầu, cam kết mang đến dịch vụ tận tình, chuyên nghiệp và chu đáo trong từng chi tiết.
               </p>
               <ul className="list-disc list-inside text-gray-600 space-y-2">
-                <li>Hơn 20 năm kinh nghiệm tổ chức tang lễ</li>
-                <li>Nhân viên hỗ trợ 24/7, đào tạo bài bản</li>
-                <li>Nghi lễ trang trọng, đúng nghi thức</li>
-                <li>Tối ưu thời gian và chi phí cho gia đình</li>
+                <li>Với hơn 20 năm kinh nghiệm trong việc tổ chức tang lễ</li>
+                <li>Đội ngũ nhân viên chuyên nghiệp, được đào tạo bài bản, luôn sẵn sàng hỗ trợ 24/7</li>
+                <li>Nghi lễ trang trọng, tuân thủ đúng nghi thức tôn giáo và phong tục truyền thống</li>
+                <li>Tối ưu chi phí và thời gian, giúp gia đình an tâm lo hậu sự chu toàn</li>
               </ul>
             </div>
           </div>

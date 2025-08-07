@@ -21,8 +21,8 @@ const SimpleSlider: React.FC<PropTypes> = props => {
 
       {/* Text on top */}
       <div className="absolute inset-0 z-20 md:p-16 p-4 pt-8">
-        <p className="text-lg md:text-xl tracking-wide font-bold text-white">Cơ Sở Mai Táng</p>
-        <h1 className="text-4xl md:text-5xl tracking-wide font-bold text-white">SINH PHÚC THỌ</h1>
+        <p className="text-lg md:text-xl tracking-wide font-bold text-white">Dịch Vụ Tang Lễ</p>
+        <h1 className="text-4xl md:text-5xl tracking-wide font-bold text-white">Trại Hòm Gò Vấp</h1>
         <div className='mt-8'>
           <a
             href="https://zalo.me/0913673661"

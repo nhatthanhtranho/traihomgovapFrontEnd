@@ -91,14 +91,12 @@ export default function ProductSection() {
       <div className="w-full py-16">
         <div className="container px-5 mx-auto text-center">
           <h1 className="text-3xl lg:text-4xl font-bold text-gray-800 mb-4">
-            {isLoading ? <Skeleton width={300} height={32} /> : 'Các Gói Hỏa Táng Trọn Gói'}
+            {isLoading ? <Skeleton width={300} height={32} /> : 'Dịch Vụ Hỏa Táng Trọn Gói'}
           </h1>
           <p className="text-gray-600 text-lg mx-auto max-w-4xl mb-4">
             {isLoading ? <Skeleton count={2} /> : (
               <>
-                Sinh Phúc Thọ cung cấp giải pháp <strong>hỏa táng</strong> chuyên nghiệp, tận tâm và
-                nhân văn, với các <strong>gói dịch vụ</strong> linh hoạt, giúp gia đình tổ chức lễ tiễn
-                biệt <strong>trang nghiêm</strong> và <strong>ý nghĩa</strong>.
+                <strong>Trại Hòm Gò Vấp</strong> cung cấp các gói dịch vụ <strong>hỏa táng</strong> chuyên nghiệp, tận tâm, với các gói dịch vụ <strong>linh hoạt</strong>, hỗ trợ gia đình tổ chức lễ tang một cách <strong>trang nghiêm</strong> và <strong>ý nghĩa</strong>.
               </>
             )}
           </p>
